@@ -1,0 +1,12 @@
+
+
+
+
+localStorage:
+'player-name' - style 'ninja'
+
+'weapon-1' - style 'sword', 'NONE' is default
+'weapon-2' - style 'sword'
+'weapon-3' - style 'sword'
+
+'coins' - style 0 (int)
